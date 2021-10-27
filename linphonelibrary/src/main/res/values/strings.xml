@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">linphonelibrary</string>
+
+    <string name="call_error_user_busy">用户忙线中</string>
+    <string name="call_error_declined">通话已被拒绝</string>
+    <string name="call_error_user_not_found">找不到用户</string>
+    <string name="call_error_incompatible_media_params">不兼容的媒体参数</string>
+    <string name="call_error_network_unreachable">无法获取网络</string>
+    <string name="call_error_io_error">网络出错</string>
+    <string name="call_error_unknown">未知错误</string>
+    <string name="call_error_forbidden">不能给自己拨号</string>
+
+</resources>

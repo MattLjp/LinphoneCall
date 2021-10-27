@@ -1,0 +1,12 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+        maven { url 'https://linphone.org/releases/maven_repository/' }
+    }
+}
+rootProject.name = "LinphoneCall"
+include ':app'
+include ':linphonelibrary'
