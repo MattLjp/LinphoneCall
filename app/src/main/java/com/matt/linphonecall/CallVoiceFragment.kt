@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.matt.linphonecall.databinding.CallVoiceFragmentBinding
-import com.matt.linphonelibrary.utils.AudioRouteUtils
 import org.linphone.core.Call
 
 class CallVoiceFragment : Fragment() {

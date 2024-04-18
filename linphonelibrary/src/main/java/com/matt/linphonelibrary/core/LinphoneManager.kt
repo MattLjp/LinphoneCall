@@ -18,12 +18,6 @@ import org.linphone.core.*
 import java.io.File
 import java.util.*
 
-/**
- * @ Author : 廖健鹏
- * @ Time : 2021/6/23
- * @ e-mail : 329524627@qq.com
- * @ Description :
- */
 class LinphoneManager private constructor(private val context: Context) {
     private val TAG = javaClass.simpleName
 
